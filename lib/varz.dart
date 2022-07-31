@@ -1,0 +1,2 @@
+String filterBy;
+String sortBy;

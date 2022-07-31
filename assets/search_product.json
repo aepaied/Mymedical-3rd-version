@@ -1,0 +1,175 @@
+{
+    "products": {
+        "details": [{
+                "id": 429,
+                "variant_product": 1,
+                "name": "Adenoid Curette Sizes",
+                "country": "Pakistan",
+                "description": "<p>Adenoid Curette Sizes</p><p>Pakistani made</p><p><br></p><p>Only order it from My Medical, the cheapest price in Egypt</p>",
+                "photos": [
+                    "1940",
+                    "1941"
+                ],
+                "thumbnail_image": "uploads/all/9nDVL83mUb85acqOFWC6eV0AcaWI4NMMf3kUyGXD.jpg",
+                "base_price": 180,
+                "base_discounted_price": 180,
+                "todays_deal": 0,
+                "featured": 0,
+                "is_favorite": false,
+                "unit": "100",
+                "current_stock": 0,
+                "tags": null,
+                "hashtag_ids": "217,103,95,74,54,7",
+                "discount": 0,
+                "discount_type": "amount",
+                "rating": 0,
+                "sales": 0,
+                "links": {
+                    "details": "https://mymedicalshope.com/api/v1/products/429",
+                    "reviews": "https://mymedicalshope.com/api/v1/reviews/product/429",
+                    "related": "https://mymedicalshope.com/api/v1/products/related/429",
+                    "top_from_seller": "https://mymedicalshope.com/api/v1/products/top-from-seller/429"
+                }
+            },
+            {
+                "id": 433,
+                "variant_product": 1,
+                "name": "Cusco Vaginal Speculum different sizes",
+                "country": "Pakistan",
+                "description": "<p>Cusco Vaginal Speculum</p><p>Made of authentic Pakistani stainless steel</p><p>High quality</p><p>Casco hysteroscope</p><p>Only order it from My Medical, the largest medical supplies site in Egypt</p>",
+                "photos": [
+                    "1954",
+                    "1953"
+                ],
+                "thumbnail_image": "uploads/all/eESPRWFCx6tJMSy6lhahg4hQQyOH1oLO2QhHVyaZ.jpg",
+                "base_price": 97,
+                "base_discounted_price": 82,
+                "todays_deal": 0,
+                "featured": 0,
+                "is_favorite": false,
+                "unit": "100",
+                "current_stock": 100,
+                "tags": null,
+                "hashtag_ids": "217,213,155,103,95,74,54,7",
+                "discount": 15,
+                "discount_type": "amount",
+                "rating": 0,
+                "sales": 0,
+                "links": {
+                    "details": "https://mymedicalshope.com/api/v1/products/433",
+                    "reviews": "https://mymedicalshope.com/api/v1/reviews/product/433",
+                    "related": "https://mymedicalshope.com/api/v1/products/related/433",
+                    "top_from_seller": "https://mymedicalshope.com/api/v1/products/top-from-seller/433"
+                }
+            }
+        ],
+        "pagination": {
+            "per_page": 10,
+            "count": 2,
+            "total": 2,
+            "prev": null,
+            "next": null
+        }
+    },
+    "all_colors": [
+        "#0000FF",
+        "#FFA500",
+        "#000000",
+        "#FFFF00",
+        "#FF00FF",
+        "#8B4513",
+        "#00FFFF",
+        "#DC143C",
+        "#F0F8FF",
+        "#9966CC"
+    ],
+    "selected_color": null,
+    "query": null,
+    "category_id": null,
+    "seller_id": null,
+    "brand_id": null,
+    "sort_by": null,
+    "min_price": null,
+    "max_price": null,
+    "original_max_price": 49200,
+    "original_min_price": 1,
+    "attributes": [{
+            "id": "5",
+            "name": "color",
+            "options": [
+                "أزرق",
+                "أورانج",
+                "اسود",
+                "اورانج",
+                "أورنج",
+                "أسود",
+                "أصفر"
+            ]
+        },
+        {
+            "id": "1",
+            "name": "Size",
+            "options": [
+                "2 لتر",
+                "4 لتر",
+                "12 لتر",
+                "6 لتر",
+                "8 لتر",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL",
+                "S"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Size",
+            "options": [
+                "02",
+                "03",
+                "16",
+                "18",
+                "22",
+                "25",
+                "14",
+                "20",
+                "15",
+                "40",
+                "57",
+                "78",
+                "01",
+                "55",
+                "50",
+                "19",
+                "9",
+                "11",
+                "13",
+                "12",
+                "13.5",
+                "17",
+                "04",
+                "05",
+                "00"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "weight",
+            "options": [
+                "10",
+                "12",
+                "14"
+            ]
+        }
+    ],
+    "selected_attributes": [{
+        "id": "6",
+        "name": "Size",
+        "options": [
+            "02",
+            "03"
+        ]
+    }]
+}

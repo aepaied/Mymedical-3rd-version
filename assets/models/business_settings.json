@@ -1,0 +1,313 @@
+{
+    "details": [{
+            "type": "home_default_currency",
+            "value": "1"
+        },
+        {
+            "type": "system_default_currency",
+            "value": "29"
+        },
+        {
+            "type": "currency_format",
+            "value": "1"
+        },
+        {
+            "type": "symbol_format",
+            "value": "2"
+        },
+        {
+            "type": "no_of_decimals",
+            "value": "0"
+        },
+        {
+            "type": "product_activation",
+            "value": "1"
+        },
+        {
+            "type": "vendor_system_activation",
+            "value": "1"
+        },
+        {
+            "type": "show_vendors",
+            "value": "1"
+        },
+        {
+            "type": "paypal_payment",
+            "value": "0"
+        },
+        {
+            "type": "stripe_payment",
+            "value": "0"
+        },
+        {
+            "type": "cash_payment",
+            "value": "1"
+        },
+        {
+            "type": "payumoney_payment",
+            "value": "0"
+        },
+        {
+            "type": "best_selling",
+            "value": "1"
+        },
+        {
+            "type": "paypal_sandbox",
+            "value": "0"
+        },
+        {
+            "type": "sslcommerz_sandbox",
+            "value": "1"
+        },
+        {
+            "type": "sslcommerz_payment",
+            "value": "0"
+        },
+        {
+            "type": "vendor_commission",
+            "value": "20"
+        },
+        {
+            "type": "verification_form",
+            "value": [{
+                    "type": "text",
+                    "label": "Your sale"
+                },
+                {
+                    "type": "text",
+                    "label": "Shop name"
+                },
+                {
+                    "type": "text",
+                    "label": "Email"
+                },
+                {
+                    "type": "text",
+                    "label": "License No"
+                },
+                {
+                    "type": "text",
+                    "label": "Full Address"
+                },
+                {
+                    "type": "text",
+                    "label": "Phone Number"
+                },
+                {
+                    "type": "file",
+                    "label": "Tax Papers"
+                },
+                {
+                    "type": "file",
+                    "label": "vat"
+                }
+            ]
+        },
+        {
+            "type": "google_analytics",
+            "value": "1"
+        },
+        {
+            "type": "facebook_login",
+            "value": "1"
+        },
+        {
+            "type": "google_login",
+            "value": "1"
+        },
+        {
+            "type": "twitter_login",
+            "value": "0"
+        },
+        {
+            "type": "payumoney_payment",
+            "value": "1"
+        },
+        {
+            "type": "payumoney_sandbox",
+            "value": "1"
+        },
+        {
+            "type": "facebook_chat",
+            "value": "1"
+        },
+        {
+            "type": "email_verification",
+            "value": "1"
+        },
+        {
+            "type": "wallet_system",
+            "value": "1"
+        },
+        {
+            "type": "coupon_system",
+            "value": "1"
+        },
+        {
+            "type": "current_version",
+            "value": "3.3"
+        },
+        {
+            "type": "instamojo_payment",
+            "value": "0"
+        },
+        {
+            "type": "instamojo_sandbox",
+            "value": "1"
+        },
+        {
+            "type": "razorpay",
+            "value": "0"
+        },
+        {
+            "type": "paystack",
+            "value": "0"
+        },
+        {
+            "type": "pickup_point",
+            "value": "0"
+        },
+        {
+            "type": "maintenance_mode",
+            "value": "0"
+        },
+        {
+            "type": "voguepay",
+            "value": "0"
+        },
+        {
+            "type": "voguepay_sandbox",
+            "value": "0"
+        },
+        {
+            "type": "category_wise_commission",
+            "value": "1"
+        },
+        {
+            "type": "conversation_system",
+            "value": "0"
+        },
+        {
+            "type": "guest_checkout_active",
+            "value": "1"
+        },
+        {
+            "type": "facebook_pixel",
+            "value": "1"
+        },
+        {
+            "type": "classified_product",
+            "value": "1"
+        },
+        {
+            "type": "pos_activation_for_seller",
+            "value": "1"
+        },
+        {
+            "type": "shipping_type",
+            "value": "area_wise_shipping"
+        },
+        {
+            "type": "flat_rate_shipping_cost",
+            "value": "50"
+        },
+        {
+            "type": "shipping_cost_admin",
+            "value": "60"
+        },
+        {
+            "type": "payhere_sandbox",
+            "value": "0"
+        },
+        {
+            "type": "payhere",
+            "value": "0"
+        },
+        {
+            "type": "google_recaptcha",
+            "value": "1"
+        },
+        {
+            "type": "refund_request_time",
+            "value": "2"
+        },
+        {
+            "type": "ngenius",
+            "value": "0"
+        },
+        {
+            "type": "compress_css",
+            "value": "0"
+        },
+        {
+            "type": "compress_html",
+            "value": "0"
+        },
+        {
+            "type": "free_shipping_treshold",
+            "value": "5000"
+        },
+        {
+            "type": "free_shipping_by_city",
+            "value": "298"
+        },
+        {
+            "type": "merge_css",
+            "value": "0"
+        },
+        {
+            "type": "enable_cache",
+            "value": "0"
+        },
+        {
+            "type": "fawry",
+            "value": "1"
+        },
+        {
+            "type": "paysky",
+            "value": "1"
+        },
+        {
+            "type": "club_point_convert_rate",
+            "value": "90"
+        },
+        {
+            "type": "facebook_comment",
+            "value": "1"
+        },
+        {
+            "type": "tawk_chat",
+            "value": "1"
+        },
+        {
+            "type": "mobile_app",
+            "value": "1"
+        },
+        {
+            "type": "mobile_app_firebase_token",
+            "value": "Key=AAAAH4ld0dc:APA91bGRGtGqkh3J7KAIuNAgXkY6rsrtg7fPT2j0dGtYRNIMq2evkERtwCaD_uPovdAVu7JBL0K7jzNI5kVS3DyNLfzujWHs_OxfdbnQindYinfYCPYxKipj2__xWGXsjwWPSqT7zDPb"
+        },
+        {
+            "type": "mobile_app_googleplay_link",
+            "value": "https://play.google.com/store/apps/details?id=com.mymedical.mymedical"
+        },
+        {
+            "type": "mobile_app_appstore_link",
+            "value": null
+        },
+        {
+            "type": "google_tag",
+            "value": "0"
+        },
+        {
+            "type": "google_tag_script",
+            "value": null
+        },
+        {
+            "type": "google_tag_tag",
+            "value": null
+        }
+    ],
+    "success": true,
+    "status": 200
+}
